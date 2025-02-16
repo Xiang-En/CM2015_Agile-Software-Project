@@ -12,10 +12,3 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
    10. Press 'run' (the green triangle on top of the screen in Android Studio) 
    11. Replace the ecoeats.db in the device's /data/data/com.ecoeats27072024/databases with a populated
 
-Main Contributors:
--Cuong
--Nicole
-
-Side Contributors:
--Xiang En (Login page's frontend)
--Winnie (a portion of Explore page's backend)
